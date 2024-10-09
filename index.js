@@ -77,7 +77,7 @@ server.on("listening", () => {
   console.clear();
   console.log(chalk.green(`🚀 Lunaar Listening on http://localhost:${address.port}`));
   console.log();
-  console.log(chalk.magenta(`🌙 Made by the Parcoil Network`));
+  console.log(chalk.magenta(`🌙 HighDev On Top!`));
   console.log();
   console.log(chalk.white(`⭐ Please Star on github`));
 });
